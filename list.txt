@@ -1,4 +1,17 @@
+FRUIT AND VEGE
 banana
 orange
 strawberries
 apple
+
+MEAT
+pork
+beef
+
+DAIRY
+milk
+cheese
+
+HOUSEHOLD
+
+PETS
