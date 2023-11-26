@@ -10,8 +10,10 @@ beef
 sausage
 
 DAIRY
-milk
-cheese
+milks
+cheeses
+eggs
+pasta
 
 HOUSEHOLD
 
