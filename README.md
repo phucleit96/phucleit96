@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Phuc Le</h1>
-<h3 align="center">A passionate self-taught Python developer from Vietnam</h3>
+<h3 align="center">A passionate self-taught Python and NextJS developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **FastAPI / Tensor Flow**
+- 🌱 I’m currently learning **NextJS / Django**
 
-- 👯 I’m looking to collaborate on **Python backend Projects / Data Analysis projects**
+- 👯 I’m looking to collaborate on **Fullstack / Data Analysis projects**
 
-- 👨‍💻 All of my projects are available at [https://phucleit96.streamlit.app/](https://phucleit96.streamlit.app/)
+- 👨‍💻 All of my projects are available at [https://phucleit96.streamlit.app/](https://phucleit96.streamlit.app/) and [My Web Portfolio](https://phucproton.me/)
 
-- 💬 Ask me about **Python, Flask, SQL**
+- 💬 Ask me about **Python, NextJS, SQL**
 
 - 📫 How to reach me **phuc.le.it96@gmail.com**
 
